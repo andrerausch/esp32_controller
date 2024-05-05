@@ -2341,7 +2341,7 @@
 		)
 		(uuid "71ca6551-15d3-4be5-a04b-ee4b80e522dc")
 	)
-	(text "Todo:\n- Check USB TVS implementation\n- Add USB input filtering"
+	(text "Todo:\n- Check USB TVS implementation\n- Add USB input filtering\n- Add selection for USB / board power"
 		(exclude_from_sim no)
 		(at 178.562 170.434 0)
 		(effects

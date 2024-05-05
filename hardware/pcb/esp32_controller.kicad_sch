@@ -6,6 +6,44 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 120.65 45.72)
+		(size 35.56 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "09a89d03-3aa9-4085-930e-9d90e57bc50f")
+		(property "Sheetname" "controller"
+			(at 120.65 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "controller.kicad_sch"
+			(at 120.65 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32_controller"
+				(path "/3de317ca-1dad-48e6-a70d-ef8644bc7ddd"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 67.31 45.72)
 		(size 35.56 21.59)
 		(fields_autoplaced yes)

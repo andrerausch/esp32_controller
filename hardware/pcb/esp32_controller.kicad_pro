@@ -389,6 +389,10 @@
     [
       "4b4243d5-1d4c-4f26-8b70-8bb66f44297e",
       "power"
+    ],
+    [
+      "09a89d03-3aa9-4085-930e-9d90e57bc50f",
+      "controller"
     ]
   ],
   "text_variables": {}
