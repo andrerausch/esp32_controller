@@ -393,6 +393,10 @@
     [
       "09a89d03-3aa9-4085-930e-9d90e57bc50f",
       "controller"
+    ],
+    [
+      "dec7daf5-2e99-44c5-ac2e-10c26c994182",
+      "com_interfaces"
     ]
   ],
   "text_variables": {}
