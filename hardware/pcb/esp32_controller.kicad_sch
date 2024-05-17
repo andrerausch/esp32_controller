@@ -105,7 +105,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "dec7daf5-2e99-44c5-ac2e-10c26c994182")
-		(property "Sheetname" "com_interfaces"
+		(property "Sheetname" "W5500"
 			(at 172.72 116.1284 0)
 			(effects
 				(font

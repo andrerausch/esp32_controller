@@ -3643,16 +3643,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 78.74) (xy 144.78 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ea1f734-f834-428e-b36b-72c0f92d9dee")
-	)
-	(wire
-		(pts
 			(xy 234.95 100.33) (xy 238.76 100.33)
 		)
 		(stroke
@@ -3683,16 +3673,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 48.26) (xy 144.78 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "169c2d55-bf91-461e-9d55-02df87ba96ce")
-	)
-	(wire
-		(pts
 			(xy 234.95 73.66) (xy 248.92 73.66)
 		)
 		(stroke
@@ -3700,16 +3680,6 @@
 			(type default)
 		)
 		(uuid "2161db09-1a9e-402c-b209-e70ab36cabdc")
-	)
-	(wire
-		(pts
-			(xy 118.11 71.12) (xy 144.78 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22067b62-7264-4ccf-a4af-886aa0d90956")
 	)
 	(wire
 		(pts
@@ -3740,16 +3710,6 @@
 			(type default)
 		)
 		(uuid "292289f8-1908-48fa-a4d5-fb1df3342f03")
-	)
-	(wire
-		(pts
-			(xy 118.11 68.58) (xy 144.78 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b7032ca-07b3-4603-8e14-fed6ca4e3f42")
 	)
 	(wire
 		(pts
@@ -3923,16 +3883,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 81.28) (xy 144.78 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5bac495e-2acc-4250-af13-7af91477f248")
-	)
-	(wire
-		(pts
 			(xy 123.19 142.24) (xy 125.73 142.24)
 		)
 		(stroke
@@ -4010,16 +3960,6 @@
 			(type default)
 		)
 		(uuid "72dde022-707b-434c-ab41-5b2fcc6ecf21")
-	)
-	(wire
-		(pts
-			(xy 118.11 83.82) (xy 144.78 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75de8689-2111-40b5-84cf-d6d7648c547e")
 	)
 	(wire
 		(pts
@@ -4123,16 +4063,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 76.2) (xy 144.78 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b45f5e7-d448-42bf-9412-dc7db56ffe59")
-	)
-	(wire
-		(pts
 			(xy 69.85 25.4) (xy 69.85 26.67)
 		)
 		(stroke
@@ -4190,16 +4120,6 @@
 			(type default)
 		)
 		(uuid "98757a36-83dc-470a-8aa4-0c4395ad1e26")
-	)
-	(wire
-		(pts
-			(xy 118.11 73.66) (xy 144.78 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9abf5116-b795-4a53-ac06-6eb9d381cbe5")
 	)
 	(wire
 		(pts
@@ -4290,16 +4210,6 @@
 			(type default)
 		)
 		(uuid "c11d33a2-e447-429a-86fd-67a28dea66c8")
-	)
-	(wire
-		(pts
-			(xy 118.11 35.56) (xy 144.78 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c30bce75-4129-4318-aab4-f8a4df45b32a")
 	)
 	(wire
 		(pts
@@ -4701,16 +4611,6 @@
 		)
 		(uuid "fc926069-3c92-4aec-8fa9-4fbc8f26fe2d")
 	)
-	(wire
-		(pts
-			(xy 118.11 66.04) (xy 144.78 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe9a98ad-d2c1-49a5-83bb-d0be2344ab33")
-	)
 	(text "USB - UART"
 		(exclude_from_sim no)
 		(at 57.912 104.902 0)
@@ -4796,17 +4696,6 @@
 		)
 		(uuid "deafd093-7f8e-4711-8adb-b0707e46a358")
 	)
-	(label "ETH_RESET"
-		(at 144.78 48.26 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "09934f3f-af36-4500-88b0-da7481551aaa")
-	)
 	(label "USB_TXD"
 		(at 123.19 149.86 180)
 		(fields_autoplaced yes)
@@ -4817,17 +4706,6 @@
 			(justify right bottom)
 		)
 		(uuid "0b356958-6ed9-4c60-b5a2-ac9daf12d860")
-	)
-	(label "ETH_MDC"
-		(at 144.78 76.2 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "118d87ef-c188-4151-bd31-2b460d8ad66f")
 	)
 	(label "U0TXD"
 		(at 137.16 142.24 0)
@@ -4883,17 +4761,6 @@
 			(justify right bottom)
 		)
 		(uuid "3d7a3602-8080-4bf9-a9df-7fa5fa4c1af7")
-	)
-	(label "ETH_TX_EN"
-		(at 144.78 71.12 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3e8c7c65-7262-4329-b898-cdf92c8a428c")
 	)
 	(label "JTAG_TMS"
 		(at 238.76 92.71 0)
@@ -4983,17 +4850,6 @@
 		)
 		(uuid "7054d29a-0928-4c65-a713-07ca1d3f9765")
 	)
-	(label "ETH_RXD_0"
-		(at 144.78 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "72dec31a-6143-49ad-9172-1891ef920e14")
-	)
 	(label "HSPI_CLK"
 		(at 203.2 73.66 0)
 		(fields_autoplaced yes)
@@ -5004,17 +4860,6 @@
 			(justify left bottom)
 		)
 		(uuid "75aac047-aaec-4d35-b1c8-a95d87aea1e5")
-	)
-	(label "ETH_MDIO"
-		(at 144.78 66.04 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7746963d-25d3-4df9-bb28-21fa33f6fcde")
 	)
 	(label "ETH_REF_CLK"
 		(at 190.5 113.03 180)
@@ -5071,17 +4916,6 @@
 		)
 		(uuid "9139566b-f111-4304-99ed-56c36b945c4e")
 	)
-	(label "ETH_TXD_0"
-		(at 144.78 68.58 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9480ab69-b55a-4622-85af-779486fbae2c")
-	)
 	(label "U0TXD"
 		(at 144.78 38.1 180)
 		(fields_autoplaced yes)
@@ -5125,17 +4959,6 @@
 			(justify right bottom)
 		)
 		(uuid "a3ee95f8-9b78-49bd-8f47-617c14900a6c")
-	)
-	(label "ETH_CRS_DV"
-		(at 144.78 83.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a6bc0898-90fc-4860-9d3f-694818c14cc9")
 	)
 	(label "U0RXD"
 		(at 137.16 149.86 0)
@@ -5225,17 +5048,6 @@
 		)
 		(uuid "be1e8ae0-5fce-46aa-805e-d8e7953d8cc6")
 	)
-	(label "ETH_REF_CLK"
-		(at 144.78 35.56 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c4a45074-2631-4257-994f-3c5ff48a8848")
-	)
 	(label "USB_RXD"
 		(at 102.87 134.62 180)
 		(fields_autoplaced yes)
@@ -5291,17 +5103,6 @@
 		)
 		(uuid "e9747345-c002-465c-a4ea-edac10d79f12")
 	)
-	(label "ETH_TXD_1"
-		(at 144.78 73.66 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e9b621a1-957d-48a9-ae76-545ab83011da")
-	)
 	(label "I2C_SDA"
 		(at 203.2 48.26 0)
 		(fields_autoplaced yes)
@@ -5312,17 +5113,6 @@
 			(justify left bottom)
 		)
 		(uuid "ea515cb7-140e-4f92-bd91-557fe48dc540")
-	)
-	(label "ETH_RXD_1"
-		(at 144.78 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "eaf3dc19-2acc-4393-8554-b2b992ff9c0a")
 	)
 	(label "I2C_SDA"
 		(at 190.5 120.65 180)
